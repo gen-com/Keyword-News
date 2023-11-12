@@ -5,6 +5,10 @@
 ## User settings
 xcuserdata/
 
+/Keyword News Tests
+.DS_Store
+.swiftlint.yml
+
 ## compatibility with Xcode 8 and earlier (ignoring not required starting Xcode 9)
 *.xcscmblueprint
 *.xccheckout
