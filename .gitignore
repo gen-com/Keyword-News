@@ -4,10 +4,12 @@
 
 ## User settings
 xcuserdata/
-
-/Keyword News Tests
 .DS_Store
 .swiftlint.yml
+
+Documentation.docc
+/Keyword News Tests
+
 /Keyword News/NaverOpenAPI/NaverOpenAPI.swift
 
 ## compatibility with Xcode 8 and earlier (ignoring not required starting Xcode 9)
