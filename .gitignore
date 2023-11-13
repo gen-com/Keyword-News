@@ -8,6 +8,7 @@ xcuserdata/
 /Keyword News Tests
 .DS_Store
 .swiftlint.yml
+/Keyword News/NaverOpenAPI/NaverOpenAPI.swift
 
 ## compatibility with Xcode 8 and earlier (ignoring not required starting Xcode 9)
 *.xcscmblueprint
